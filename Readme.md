@@ -26,3 +26,4 @@ yarn api-extractor init
 mkdir etc
 yarn build
 yarn api-extractor run --local
+yarn api-documenter markdown -i temp -o docs
